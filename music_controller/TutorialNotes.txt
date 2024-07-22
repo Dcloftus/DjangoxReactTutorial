@@ -1,0 +1,11 @@
+Here I will store any notest that I want to take from the tutorial
+
+**Django (Backend)**
+
+**React (FrontEnd)**
+Webpack - takes source JS and bundles it into a single JS file
+Babel - Transpiles JS and makes it work on all browsers
+
+
+
+
